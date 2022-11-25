@@ -1,5 +1,5 @@
-# RapidDocumentConversion
-Group Project by Yasin, Merin, Celestie
+# D2PConverter
+Group Project by Aryan, Devansh, Sridhar and Raman
 
 In our system the users should be able to upload any WORD document and it will get converted to a PDF document in a single click.​
 
